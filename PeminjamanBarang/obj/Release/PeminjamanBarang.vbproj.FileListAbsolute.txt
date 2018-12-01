@@ -1,0 +1,11 @@
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\bin\Release\PeminjamanBarang.exe.config
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\bin\Release\PeminjamanBarang.exe
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\bin\Release\PeminjamanBarang.pdb
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\bin\Release\PeminjamanBarang.xml
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\obj\Release\PeminjamanBarang.formPeminjamanBarang.resources
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\obj\Release\PeminjamanBarang.Resources.resources
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\obj\Release\PeminjamanBarang.vbproj.GenerateResource.Cache
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\obj\Release\PeminjamanBarang.exe
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\obj\Release\PeminjamanBarang.xml
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\obj\Release\PeminjamanBarang.pdb
+C:\Users\dynog_000\documents\visual studio 2015\Projects\PeminjamanBarang\PeminjamanBarang\obj\Release\PeminjamanBarang.vbprojResolveAssemblyReference.cache
